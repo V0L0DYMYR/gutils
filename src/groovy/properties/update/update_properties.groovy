@@ -1,8 +1,8 @@
 package groovy.properties.update
 
 files = [
-        'message_ua.properties': 'D:\\repo\\git\\mygithub\\webutils\\gutils\\src\\groovy\\message_ua.properties',
-        'message_en.properties': 'D:\\repo\\git\\mygithub\\webutils\\gutils\\src\\groovy\\message_en.properties'
+        'message_ua.properties': 'D:\\repo\\git\\mygithub\\gutils\\src\\groovy\\properties\\update\\message_en.properties',
+        'message_en.properties': 'D:\\repo\\git\\mygithub\\gutils\\src\\groovy\\properties\\update\\message_ua.properties'
 ]
 
 //main
