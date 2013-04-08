@@ -23,7 +23,7 @@ collection of utils/scripts
 
   <li>
     <b>compare_properties.groovy</b><br/>
-    <i>>groovy compare_properties.groovy old.properties new.properties</i>
+    <i>>groovy compare_properties.groovy message_en.properties message_ua.properties</i>
     <pre>
     Only in message_en.properties
     prop.only.en         |only here
