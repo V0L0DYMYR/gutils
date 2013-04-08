@@ -20,4 +20,21 @@ collection of utils/scripts
     common.property = some common property
   </pre>
   </li>
+
+  <li>
+    <b>compare_properties.groovy</b><br/>
+    <i>>groovy compare_properties.groovy old.properties new.properties</i>
+    <pre>
+    Only in message_en.properties
+    prop.only.en         |only here
+
+    Only in message_ua.properties
+    prop.only.ua         |only here
+
+    Modified
+                         |message_en.properties    |message_ua.properties
+    ---------------------+-------------------------+----------------------
+    common.modified.prop |en                       |ua
+    </pre>
+  </li>
 </ol>
